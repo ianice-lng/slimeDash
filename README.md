@@ -1,5 +1,5 @@
 # Slime Dash
-
+Slime Dash est un projet réalisé lors d'un hackathon organisé pendant mes cours (PS: cette version n'est pas fonctionnelle je corrigerai les problemes) 
 ## Sommaire
 - [Split](#split)
 - [Sommaire](#sommaire)
