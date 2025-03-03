@@ -15,7 +15,17 @@ Pour lancer le serveur front il faut le lancer avec python
 ```bash
 python -m http.server -d front
 ```
-Pour lancer le server back il faut 
+Pour lancer le server back il faut installer nodejs puis 
+``` bash
+cd back
+```
+``` bash
+npm i
+```
+puis enfin lancer le server.js avec
+```bash
+node server.js
+```
 
 # Routes
 
