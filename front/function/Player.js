@@ -14,10 +14,9 @@ export async function createPlayer(color, app, PIXI) {
     player.x = 100;
     player.y = app.screen.height - 400;
     player.width = 40;
-    player.height = 25
+    player.height = 25;
     player.vy = 0;
     player.onGround = false;
-    player.scale.set(4)
     player.animationSpeed = 0.2;
     player.play();
     return player;
