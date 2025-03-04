@@ -1,5 +1,7 @@
 ## Routes de l'API
-
+  - [Top joueurs](#top-joueurs)
+  - [Insertion d'un utilisateur](#insertion-dun-utilisateur)
+  - [Liste des utilisateurs](#liste-des-utilisateurs)
 ### 📌 Top joueurs
 - **URL** : `/top/users`
 - **Méthode** : `GET`

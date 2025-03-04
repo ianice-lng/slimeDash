@@ -12,10 +12,7 @@ Slime Dash est un jeu développé dans le cadre d'un hackathon organisé pendant
 
 ## Sommaire
 - [Installation et Lancement](#installation-et-lancement)
-- [Routes de l'API](#routes-de-lapi)
-  - [Top joueurs](#top-joueurs)
-  - [Insertion d'un utilisateur](#insertion-dun-utilisateur)
-  - [Liste des utilisateurs](#liste-des-utilisateurs)
+- [Routes de l'API](back/readme.md)
 - [Crédits](#credits)
 
 ---
